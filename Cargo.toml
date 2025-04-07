@@ -16,7 +16,7 @@ categories = ["command-line-utilities"]
 chrono = "0.4.23"
 clap = { version = "4.5.31", features = ["derive", "env"] }
 color-eyre = "0.6.2"
-crossterm = "0.26.1"
+crossterm = "0.29.0"
 rustyline = "11.0.0"
 serde = { version = "1.0.164", features = [ "derive" ] }
 tokio = { version = "1.31.0", features = [ "full" ] }
